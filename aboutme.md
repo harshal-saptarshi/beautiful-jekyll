@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: MS in Information Systems graduate with Business Analytics concentration 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Harshal Saptarshi. I am recently graduated from California State University where I pursued MS in Information Systems with concentration in Business Analytics with 2+ years of relevant experience in data analytics and web development. Vast experience of dealing with 300+ clients for business development. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Acute knowledge of databases, technical language and visualization tools.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+What else do you need? :)
