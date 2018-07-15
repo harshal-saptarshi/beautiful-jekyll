@@ -13,4 +13,6 @@ Details about my project
   o	Tools used: Python, Machine learning packages, R, SPSS, Excel, Tableau, Qualtrics
   o	Outcome: Most preferred music genre was Pop/Soft Rock 
 
-  Link - 
+ Please click on [Link](harshal-saptarshi.github.io/img/577_Phase_2_deliverable_group_9.pdf)  for full-project report
+ 
+ 2) 
