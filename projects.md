@@ -15,4 +15,14 @@ Details about my project
 
  Please click on [Link](/img/577_Phase_2_deliverable_group_9.pdf)  for full-project report
  
- 2) 
+ 2) Database Mail Ordering System
+
+•	Created a robust computerized mail ordering system by evaluating various department needs and created a prototype in .NET using MS SQL Server for the database connectivity.
+
+o	Tools used: Microsoft SQL Server 2016, .Net, MS Visio
+
+Please click on [Link](/img/Team_6_Final_Report_Database.pdf)  for full-project report
+
+3) 
+
+ 
