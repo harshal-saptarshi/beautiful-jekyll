@@ -4,8 +4,45 @@ title: About me
 subtitle: MS in Information Systems graduate with Business Analytics concentration 
 ---
 
-My name is Harshal Saptarshi. I recently graduated from California State University where I pursued MS in Information Systems with concentration in Business Analytics with 2+ years of relevant experience in data analytics and web development. Vast experience of dealing with 100+ clients for business development. 
+My name is Harshal Saptarshi. I recently graduated from California State University where I pursued MS in Information Systems with concentration in Business Analytics with 2.5+ years of relevant experience in data analytics and web development. Vast experience of dealing with 100+ clients for business development. 
 
-- Acute knowledge of databases, technical language and visualization tools.
+Summary of My Work Experience
+
+● MS Information Systems graduate with concentration in Business Analytics with 2.5+ years of relevant
+experience in
+web development and data analysis focusing on Java and Python.
+● Vast experience in dealing with 100+ clients for business development application, focusing on multiple
+platforms.
+● Acute knowledge of databases, technical language and visualization tools.
+● Self-starter and ability to adapt and learn new things quickly.
+● Excellent communication and documentation skills.
+● Acquired in depth knowledge of Data Analysis, Marketing Analysis and Business Analysis.
+● Worked on various architectures such as MVC, Singleton, Delegate and Notification patterns.
+● Good experience in Object Oriented Design (OOD), analysis (OOA), modeling (OOM) based on
+Unified Modeling Language (UML).
+● Built visualization dashboards in Tableau Desktop from various sources like Google Analytics,
+Facebook Ads Manager, Twitter Analytics, Hootsuite and HubSpot CRM.
+● Extensive experience in requirement analysis, functional analysis, excellent conceptual and logical
+thinking.
+● Working knowledge of threading & memory management.
+● Experience object-oriented programming (OOP) concepts using Java, Python and C++.
+● Experience in working with AWS (Amazon Web Services) cloud platform.
+● Experienced in working with various Python Integrated Development Environments like IDLE,
+PyCharm, Atom, Eclipse, PyDev and Sublime Text.
+● Provided detailed analysis of website taffic from various marketing sources.
+● Increased web traffic up to 70% on the rate of average traffic monthly.
+● Experience with Requests, Numpy, Scipy, Matplotlib, and Pandas python libraries during
+development lifecycle.
+● Experience in creating initial website prototype from Django skeleton and building out Views,
+Templates using CSS for whole site following Django MVC architecture.
+● Experienced with full software development life-cycle, architecting scalable platforms, objectoriented
+programming, database design and agile methodologies
+● Strong experience using Web Services and API’s in python and Java.
+● Displayed and proved capability to learn any new technology and work on it.
+● Hands-on experience in writing and reviewing requirements, architecture documents, test plans,
+design and maintaining documents, quality analysis and helping with the software release process.
+● Ability to successfully multitask and prioritize work.
+● Implemented call tracking software for marketing materials.
+● Performed keyword research and built PPC campaigns from ground up.
 
 What else do you need? :)
