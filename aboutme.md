@@ -44,5 +44,5 @@ design and maintaining documents, quality analysis and helping with the software
 ● Implemented call tracking software for marketing materials. <br>
 ● Performed keyword research and built PPC campaigns from ground up. <br>
 
-What else do you need? :) 
+What else do you need? :) <br>
 Shoot me an email @ HARSHALSAPTARSHI7@GMAIL.COM
